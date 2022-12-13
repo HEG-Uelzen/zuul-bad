@@ -1,4 +1,6 @@
 tasks:
+  - name: Compile Java Files
+    command: javac *.java
   - name: Launch Game
     command: java Game
 
